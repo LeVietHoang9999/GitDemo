@@ -16,6 +16,12 @@ public class finalDemo {
 	final public void getData(String name) {
 		System.out.println("Final method with the dynamic name: "+name);
 	}
+	final public void getData2(String name) {
+		System.out.println("Final method with the dynamic name: "+name);
+	}
+	final public void getData3(String name) {
+		System.out.println("Final method with the dynamic name: "+name);
+	}
 	public void getData(int a) {
 		
 	}
