@@ -16,8 +16,10 @@ public class thisDemo {
 		// TODO Auto-generated method stub
 		thisDemo td = new thisDemo();
 	}
-public void abc() {
-		
+	public void abc() {
+		System.out.println("ThisDemo code run correctly1");
+		System.out.println("ThisDemo code run correctly2");
+		System.out.println("ThisDemo code run correctly3");
 	}
 
 }

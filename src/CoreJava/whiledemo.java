@@ -23,6 +23,9 @@ public class whiledemo {
 		}
 		thisDemo td = new thisDemo();
 		System.out.println(td.a);
+		System.out.println("Run the code successfully1");
+		System.out.println("Run the code successfully2");
+		System.out.println("Run the code successfully3");
 	}
 
 }
