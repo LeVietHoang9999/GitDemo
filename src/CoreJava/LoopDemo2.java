@@ -17,5 +17,8 @@ public class LoopDemo2 {
 			b++;
 		}
 	}
+	public void getData() {
+		System.out.println("This is the develop2 singapore 3rd try");
+	}
 
 }
